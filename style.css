@@ -19,6 +19,7 @@
 }
 .header-main-text h1 {
   font-size: 60px;
+  border-left-height:10px;
 }
 .mission{
   color:orange;
@@ -198,33 +199,3 @@ img {
   color: white;
 }
 /* footer section end */
-
-/* slider section start */
-/* .wrapper {
-    position: relative;
-    overflow: hidden;
-    width: 600px;
-    height: 370px; 
-    border: 1px solid black;
-}
-
-#slide {
-    position: absolute;
-    left: -600px;
-    width: 600px;
-    height: 370px;
-    background: blue;
-    -webkit-animation: slide 0.5s forwards;
-    -webkit-animation-delay: 2s;
-    animation: slide 0.5s forwards;
-    animation-delay: 2s;
-}
-
-@-webkit-keyframes slide {
-    100% { left: 0; }
-}
-
-@keyframes slide {
-    100% { left: 0; }
-} */
-/* slider section end */
