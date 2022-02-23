@@ -170,6 +170,10 @@ img {
   border-radius: 20px;
   box-shadow: 10px 10px 10px gray, 10px 10px 10px gray;
 }
+.about-item h1 {
+  font-size:40px;
+  color:antiquewhite;
+}
 /* about section end */
 
 /* footer section start */
