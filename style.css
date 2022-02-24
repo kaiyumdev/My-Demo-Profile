@@ -19,7 +19,6 @@
 }
 .header-main-text h1 {
   font-size: 60px;
-  border-left-height:10px;
 }
 .mission{
   color:orange;
@@ -60,8 +59,6 @@ p {
     text-decoration: none;
   }
  
-
-
 /* header section end */
 
 /* card section start */
@@ -152,6 +149,9 @@ img {
 /* team section end  */
 
 /* about section start */
+.about{
+  background-color: #eec6c665;
+}
 .about-text {
   text-align: center;
   font-size: 40px;
