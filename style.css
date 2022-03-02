@@ -150,7 +150,7 @@ img {
 
 /* about section start */
 .about{
-  background-color: #eec6c665;
+  background-color: rgba(238, 228, 213, 0.808);
 }
 .about-text {
   text-align: center;
